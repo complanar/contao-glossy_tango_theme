@@ -1,4 +1,4 @@
-# contao-glossy_tango
+# Glossy Tango Theme (contao-glossy_tango_theme)
 
 Glossy Tango Theme for Contao CMS, which uses a dark grey background, green 
 headers and icons from the [Tango Project](http://www.freedesktop.org/).
